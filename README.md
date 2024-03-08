@@ -1,1 +1,1 @@
-# VENUS-OpenMM
+# VENUS96-OpenMM
